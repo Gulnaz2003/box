@@ -1,0 +1,87 @@
+.box_options {
+  display: flex;
+  text-overflow: bold;
+  justify-content: center;
+  background-color: white;
+  margin: 100px 150px;
+  border-radius: 20px;
+  justify-content: center;
+  width: 1000px;
+  height: 820px;
+}
+
+.box_container {
+  display: flex;
+  background: rgb(51, 221, 193);
+  background: linear-gradient(
+    311deg,
+    rgba(51, 221, 193, 1) 39%,
+    rgb(3, 1, 30) 100%
+  );
+  position: absolute;
+  justify-content: center;
+  width: 1440px;
+  height: 1024px;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+}
+
+.box_title {
+  display: block;
+  text-align: center;
+  padding: 30px 10px;
+  position: absolute;
+  font-size: 24px;
+}
+
+.box_input {
+  display: flex;
+  border-radius: 10px;
+}
+.box_input {
+  display: flex;
+}
+
+.button {
+  margin: 30px;
+  padding: 10px 90px;
+  border-radius: 15px;
+  color: white;
+  background: #259a71;
+}
+
+.box_input Button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.box_number {
+  display: flex;
+}
+
+.box_number Button {
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+}
+
+.box_menu {
+  display: flex;
+  padding: 50px 0px 50px 10px;
+}
+
+.box_menu a {
+  text-decoration: none;
+  color: #545353;
+}
+
+.box_menu img {
+  width: 10px;
+  height: 20px;
+  padding: 3px 20px;
+}
